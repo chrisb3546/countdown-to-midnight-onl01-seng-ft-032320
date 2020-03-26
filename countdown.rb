@@ -1,4 +1,7 @@
 #write your code here
 
-def countdown
+def countdown(x)
+  countdown = 10
+  while countdown > 0 
+  puts "#{x} 
 end
